@@ -1,0 +1,3 @@
+Test-ComputerSecureChannel -Credential example.com\admin -Repair
+
+"It repairs the trust relationship between a computer and the domain. Without requiring a reboot."
